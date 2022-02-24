@@ -1,6 +1,8 @@
-## Exercícios 1
+# Exercícios 1
 
-### Consulte os dados da tabela `EMPLOYEES`.
+## Criando Instruções SELECT SQL Básicas
+
+### Consultando os dados da tabela `EMPLOYEES`.
 
 1. Mostre o `last_name`, `job_id`, `hire_date`, and `employee_id` para cada empregado, 
 com o número do empregado aparecendo por primeiro. Definir um apelido (alias) `STARTDATE` para a coluna `hire_date`.
